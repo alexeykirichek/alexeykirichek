@@ -16,7 +16,7 @@ My name is Alexey, I'm a full stack web developer. In 2021, I completed my maste
 I have experience developing with Laravel, 1C Bitrix, Yii2, Pimcore, Bitrix24, Vue.js, and Nuxt. I have built websites from scratch as well as fixed and upgraded existing ones. I have optimized websites according to tasks from SEO specialists and configured servers and environments for various projects.
 
 ### 🛠 Tech Stack
-Backend: PHP 7.*, PHP 8.*, Laravel 10, Laravel 11, Yii2, 1C Bitrix, Bitrix24\
+Backend: PHP 7.*, PHP 8.*, Laravel 10, Laravel 11, Laravel 12, Yii2, 1C Bitrix, Bitrix24\
 Frontend: HTML5, CSS3, SASS, Bootstrap 5, Vanilla JS, Ajax, jQuery, Pug, Vue.js, Nuxt\
 Databases: MySQL, PostgreSQL, SQlite\
 Builders: WebPack, Vite, Gulp\
